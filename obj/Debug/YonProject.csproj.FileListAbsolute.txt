@@ -1,0 +1,16 @@
+C:\Users\MURAT\source\repos\YonProject\YonProject\bin\Debug\YonProject.exe.config
+C:\Users\MURAT\source\repos\YonProject\YonProject\bin\Debug\YonProject.exe
+C:\Users\MURAT\source\repos\YonProject\YonProject\bin\Debug\YonProject.pdb
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.csprojAssemblyReference.cache
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.DersSecim.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.Form1.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.Properties.Resources.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.csproj.GenerateResource.cache
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.exe
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.pdb
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.OgretmenDers.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.GirisSayfasi.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.Ders.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.OgretmenMenu.resources
+C:\Users\MURAT\source\repos\YonProject\YonProject\obj\Debug\YonProject.OgrenciMenu.resources
